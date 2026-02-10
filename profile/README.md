@@ -23,8 +23,8 @@ We have carefully selected a stack that empowers creativity and guarantees owner
 
 *   **[Godot Engine](https://godotengine.org/)**: Our engine of choice. We leverage its flexibility and open nature to build experiences that are uniquely ours.
 *   **[Blender](https://www.blender.org/)**: For 3D modeling, sculpting, and animation. Our pipeline is deeply integrated with the Blender LTS ecosystem.
-*   **[BLOCK]**: Our custom low-poly and entity design tool (powered by the Blockbench core). It’s the perfect bridge between restricted art and modern performance.
-*   **[TRENCH]**: Our custom level design environment (powered by the TrenchBroom core). We appreciate the classic, tactile feel of CSG and bring it into the modern era.
+*   **[BLOCK](https://github.com/Amana-Games/BLOCK.git)**: Our custom low-poly and entity design tool (powered by the Blockbench core). It’s the perfect bridge between restricted art and modern performance.
+*   **[TRENCH](https://github.com/Amana-Games/TRENCH.git)**: Our custom level design environment (powered by the TrenchBroom core). We appreciate the classic, tactile feel of CSG and bring it into the modern era.
 *   **The Live-Sync Bridge**: Both **TRENCH** and **BLOCK** communicate directly with Godot in real-time via **UDP**, allowing for unmatched iteration speeds.
 *   **Amana SDK Hub**: Our custom-built central command. A tool made by developers, for developers, upkeeping our complex workflows.
 
